@@ -10,6 +10,9 @@
 * [DefaultObjectDataSources.ascx.cs](./CS/WebSite/DefaultObjectDataSources.ascx.cs) (VB: [DefaultObjectDataSources.ascx.vb](./VB/WebSite/DefaultObjectDataSources.ascx.vb))
 <!-- default file list end -->
 # How to customize the Time cell via HtmlTimeCellPrepared event
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1102/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxSchedulerASPxScheduler_HtmlTimeCellPreparedtopic">HtmlTimeCellPrepared</a> event enables you to specify the style and color of a particular time cell, and even insert a Literal control to display text. In this case it is used to highlight dinner time.</p>
